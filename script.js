@@ -15,7 +15,7 @@ function init(){
 
 function elsof() {
     console.log("1.feladat");
-    // const ELEM = document.querySelectorAll("section:nth-child(1) h2")[0]
+    // const ELEM = document.querySelectorAll("section h2:nth-child(1)")[0]
     // console.log(ELEM)
     // console.log(ELEM.innerHTML)
     const ELEM2 = document.querySelector("section h2")
